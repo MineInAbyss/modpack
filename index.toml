@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "4a337d60db244b59c4f01e0f4363b1a3240e946e9e3be9c22b438f0959fd787d"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "241d5322140bf6f5ba886736a5a81f4d2fa9ced3c96ae24a99b04fa9104bde25"
 
@@ -85,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "caa3a76f43559cbf5c8387b51b89f03834c2c72e4af8669be7a9ef947077e90a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
 
 [[files]]
