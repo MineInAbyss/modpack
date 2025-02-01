@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cf6c6961eee1091b52d236db2c1996a521abd58065be02f11b434f4dcbe233e8"
+hash = "516d90166c8b7ce7393d4926aaff6eae6dcdc0966b16338d4ecb51dd2a4b118c"
 metafile = true
 
 [[files]]
@@ -167,5 +167,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "555b0b264cf4f00066cb2365c3335fc78c09331bcbe81c94aae7d6cb91778e6c"
+hash = "6209a6f492ed52defac24ce65c789303391f2af101bb4c4cfdf6a00eb0e9a2b3"
 metafile = true
