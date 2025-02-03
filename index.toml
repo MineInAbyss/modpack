@@ -152,13 +152,18 @@ hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0.1.6-alpha-13012025.jar"
-hash = "240565f6074cecf4e8f4c65aeee859eaf49bd40d3890016ce5ef09497a278fd2"
+file = "mods/voxy-0.1.6-alpha-030225.jar"
+hash = "0888ee6ecb760111d042660b109e713106fa30dbb6e5bf308a577b3735ab5025"
 
 [[files]]
 file = "mods/yacl.pw.toml"
