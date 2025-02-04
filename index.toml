@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/go.yml"
+hash = "bb15dff5433ab802cdf0907a425818be76b12853e3cf1fae708ae0b70de6c169"
+
+[[files]]
 file = "LICENSE"
 hash = "4a337d60db244b59c4f01e0f4363b1a3240e946e9e3be9c22b438f0959fd787d"
 
@@ -162,8 +166,8 @@ hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0.1.6-alpha-030225.jar"
-hash = "0888ee6ecb760111d042660b109e713106fa30dbb6e5bf308a577b3735ab5025"
+file = "mods/voxy-0.1.6-alpha-040225.jar"
+hash = "cd6768d6b87e91f634be3ff662c9346af8e33b5d9bbc61aac99947baf8d98688"
 
 [[files]]
 file = "mods/yacl.pw.toml"
