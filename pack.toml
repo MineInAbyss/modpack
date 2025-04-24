@@ -1,13 +1,13 @@
 name = "MineInAbyss Modpack"
 author = "MineInAbyss"
-version = "1.1.2"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a90beab21fb98541df750b51377ff472a2c9ecc2143f7e00743a21b9c3d417c9"
+hash = "344536deddd9bd39a789a3718421cf52ad13fdeee0edb0cae15d1cff9afe7df1"
 
 [versions]
-fabric = "0.16.10"
-minecraft = "1.21.1"
+fabric = "0.16.13"
+minecraft = "1.21.4"
